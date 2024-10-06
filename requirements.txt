@@ -1,8 +1,0 @@
-streamlit
-pandas
-altair
-plotly
-ipython
-numpy
-seaborn
-matplotlib.pyplot
