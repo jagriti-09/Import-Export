@@ -5,3 +5,4 @@ plotly
 ipython
 numpy
 seaborn
+matplotlib.pyplot
