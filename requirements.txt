@@ -4,3 +4,4 @@ altair
 plotly
 ipython
 numpy
+seaborn
